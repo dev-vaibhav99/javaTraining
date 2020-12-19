@@ -28,6 +28,7 @@ public class Variables {
         // this is a string data and in java String is a class..
         // String should be written in double quotes
 
+        boolean decision = false; // this is boolean data type
         System.out.println(word);
 
     }
