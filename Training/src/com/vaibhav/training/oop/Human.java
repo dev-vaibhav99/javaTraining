@@ -5,9 +5,13 @@ public class Human {
     String name, eyeColor, nature, gender;
     int age, heightInInches;
 
-    public Human(String g, String n){
-        nature = n;
-        gender = g;
+    public Human(String name, String eyeColor, String nature, String gender, int age, int heightInInches) {
+        this.name = name;
+        this.eyeColor = eyeColor;
+        this.nature = nature;
+        this.gender = gender;
+        this.age = age;
+        this.heightInInches = heightInInches;
     }
 
     public void speak(){
