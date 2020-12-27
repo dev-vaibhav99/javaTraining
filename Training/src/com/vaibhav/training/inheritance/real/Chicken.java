@@ -6,7 +6,9 @@ public class Chicken extends Birds {
         super(chickenAge, chickenWeight);
     }
 
+    // as Chicken cannot fly so this class has not implemented the interface CanFly ***
 
+    // and due to Multilevel inheritance it is able to use properties of Animal class
     @Override
     public void eat() {
         System.out.println("Chicken eating...");

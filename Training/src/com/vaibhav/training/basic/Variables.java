@@ -30,6 +30,5 @@ public class Variables {
 
         boolean decision = false; // this is boolean data type
         System.out.println(word);
-
     }
 }
