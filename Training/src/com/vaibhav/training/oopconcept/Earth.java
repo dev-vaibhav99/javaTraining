@@ -1,4 +1,4 @@
-package com.vaibhav.training.oop;
+package com.vaibhav.training.oopconcept;
 
 public class Earth {
 
