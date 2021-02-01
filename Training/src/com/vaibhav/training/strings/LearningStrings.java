@@ -11,7 +11,8 @@ public class LearningStrings {
     *  str.equals(string) checks if given strings are equal or not (case sensitive)
     *  str.equalsIgnoreCase(string) is not case sensitive and checks if both strings are equal
     *  indexOf(string) returns index of given string (from starting)
-    *  lastIndexOf(string) returns index of given string (from last) */
+    *  lastIndexOf(string) returns index of given string (from last)
+    * */
 
     public static void main(String[] args) {
         String str = "This is a string...";
